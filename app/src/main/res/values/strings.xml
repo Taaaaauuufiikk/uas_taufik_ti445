@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">uas_taufik_ti445</string>
+
+    <string-array name="even">
+        <item>Even</item>
+        <item>Workshop SQL Express</item>
+        <item>Web PHP</item>
+        <item>Java dengan JFreme</item>
+        <item>Oracle</item>
+    </string-array>
+</resources>
